@@ -1,0 +1,252 @@
+{
+  "administrativo": [
+    {
+      "id": 1,
+      "first_name": "Roberto",
+      "last_name": "Aza",
+      "email": "ener@jgfo.gmail",
+      "gender": "Male",
+      "car_model": "Ferrari"
+    },
+    {
+      "id": 2,
+      "first_name": "Alethea",
+      "last_name": "Coddrington",
+      "email": "acoddrington1@archive.org",
+      "gender": "Female",
+      "car_model": "CLS-Class"
+    },
+    {
+      "id": 3,
+      "first_name": "Deina",
+      "last_name": "Mealham",
+      "email": "dmealham2@twitpic.com",
+      "gender": "Female",
+      "car_model": "Horizon"
+    },
+    {
+      "id": 4,
+      "first_name": "Liesa",
+      "last_name": "Grouvel",
+      "email": "lgrouvel3@tamu.edu",
+      "gender": "Female",
+      "car_model": "SRX"
+    },
+    {
+      "id": 5,
+      "first_name": "Kalil",
+      "last_name": "Jewer",
+      "email": "kjewer4@opera.com",
+      "gender": "Male",
+      "car_model": "Mazda6"
+    },
+    {
+      "id": 6,
+      "first_name": "Fredek",
+      "last_name": "Roundtree",
+      "email": "froundtree5@linkedin.com",
+      "gender": "Male",
+      "car_model": "Eclipse"
+    },
+    {
+      "id": 7,
+      "first_name": "Karen",
+      "last_name": "Desorts",
+      "email": "kdesorts6@gnu.org",
+      "gender": "Female",
+      "car_model": "MR2"
+    },
+    {
+      "id": 8,
+      "first_name": "Maxim",
+      "last_name": "Gorden",
+      "email": "mgorden7@blogger.com",
+      "gender": "Male",
+      "car_model": "Legacy"
+    },
+    {
+      "id": 9,
+      "first_name": "Ursuline",
+      "last_name": "Arrigo",
+      "email": "uarrigo8@exblog.jp",
+      "gender": "Female",
+      "car_model": "Impreza WRX"
+    },
+    {
+      "id": 12,
+      "first_name": "Bowie",
+      "last_name": "Monkeman",
+      "email": "bmonkemanb@php.net",
+      "gender": "Male",
+      "car_model": "Durango"
+    },
+    {
+      "id": 13,
+      "first_name": "Feliks",
+      "last_name": "Comizzoli",
+      "email": "fcomizzolic@unblog.fr",
+      "gender": "Male",
+      "car_model": "Ram 50"
+    },
+    {
+      "id": 14,
+      "first_name": "Ivar",
+      "last_name": "Burnapp",
+      "email": "iburnappd@bizjournals.com",
+      "gender": "Male",
+      "car_model": "88"
+    },
+    {
+      "id": 15,
+      "first_name": "Caria",
+      "last_name": "Robarts",
+      "email": "crobartse@yahoo.co.jp",
+      "gender": "Female",
+      "car_model": "Town Car"
+    },
+    {
+      "id": 16,
+      "first_name": "Rab",
+      "last_name": "Jephcote",
+      "email": "rjephcotef@yolasite.com",
+      "gender": "Male",
+      "car_model": "S4"
+    },
+    {
+      "id": 17,
+      "first_name": "Jarid",
+      "last_name": "Dabner",
+      "email": "jdabnerg@baidu.com",
+      "gender": "Male",
+      "car_model": "RAV4"
+    },
+    {
+      "id": 18,
+      "first_name": "Winnie",
+      "last_name": "Ough",
+      "email": "woughh@gravatar.com",
+      "gender": "Non-binary",
+      "car_model": "Yukon"
+    },
+    {
+      "id": 19,
+      "first_name": "Derron",
+      "last_name": "Thal",
+      "email": "dthali@toplist.cz",
+      "gender": "Polygender",
+      "car_model": "Villager"
+    },
+    {
+      "id": 20,
+      "first_name": "Kirk",
+      "last_name": "Extance",
+      "email": "kextancej@yelp.com",
+      "gender": "Male",
+      "car_model": "Grand Cherokee"
+    },
+    {
+      "id": 21,
+      "first_name": "Ursala",
+      "last_name": "Fairebrother",
+      "email": "ufairebrotherk@opera.com",
+      "gender": "Female",
+      "car_model": "323"
+    },
+    {
+      "id": 22,
+      "first_name": "Vera",
+      "last_name": "Blackford",
+      "email": "vblackfordl@uiuc.edu",
+      "gender": "Female",
+      "car_model": "RL"
+    },
+    {
+      "id": 23,
+      "first_name": "Domeniga",
+      "last_name": "Renahan",
+      "email": "drenahanm@nationalgeographic.com",
+      "gender": "Female",
+      "car_model": "Z4"
+    },
+    {
+      "id": 24,
+      "first_name": "Beret",
+      "last_name": "Dodsworth",
+      "email": "bdodsworthn@ucoz.ru",
+      "gender": "Female",
+      "car_model": "Sundance"
+    },
+    {
+      "id": 25,
+      "first_name": "Neda",
+      "last_name": "Labba",
+      "email": "nlabbao@last.fm",
+      "gender": "Female",
+      "car_model": "Town & Country"
+    },
+    {
+      "id": 26,
+      "first_name": "Cori",
+      "last_name": "Crocroft",
+      "email": "ccrocroftp@princeton.edu",
+      "gender": "Male",
+      "car_model": "Golf"
+    },
+    {
+      "id": 27,
+      "first_name": "Robbin",
+      "last_name": "Durdan",
+      "email": "rdurdanq@imageshack.us",
+      "gender": "Agender",
+      "car_model": "Echo"
+    },
+    {
+      "id": 28,
+      "first_name": "Cecil",
+      "last_name": "Thorwarth",
+      "email": "cthorwarthr@foxnews.com",
+      "gender": "Male",
+      "car_model": "M6"
+    },
+    {
+      "id": 29,
+      "first_name": "Pacorro",
+      "last_name": "Leveridge",
+      "email": "pleveridges@pagesperso-orange.fr",
+      "gender": "Male",
+      "car_model": "Pajero"
+    },
+    {
+      "id": 30,
+      "first_name": "Hurleigh",
+      "last_name": "Haughian",
+      "email": "hhaughiant@prweb.com",
+      "gender": "Male",
+      "car_model": "Skylark"
+    },
+    {
+      "id": "31",
+      "first_name": "juan",
+      "last_name": "paz",
+      "email": "123juanpaz@yopmail",
+      "gender": "Male",
+      "car_model": "Spark"
+    },
+    {
+      "id": "33",
+      "first_name": "Juan",
+      "last_name": "Henr",
+      "email": "maildef@hhf.com",
+      "gender": "Female",
+      "car_model": "Ford"
+    },
+    {
+      "id": 34,
+      "first_name": "Jose",
+      "last_name": "Ceoa",
+      "email": "ada@hghf.com",
+      "gender": "Male",
+      "car_model": "Ford"
+    }
+  ]
+}

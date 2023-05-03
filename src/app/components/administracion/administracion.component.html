@@ -1,0 +1,31 @@
+<form >
+    <div class="mb-3 mt-3">
+      <label for="id" class="form-label">Email:</label>
+      <input type="text" class="form-control" id="id" placeholder="Enter id" #id>
+    </div>
+    <div class="mb-3">
+      <label for="nombre" class="form-label">Password:</label>
+      <input type="text" class="form-control" id="nombre" placeholder="Enter nombre" #nom>
+    </div>
+    <div class="mb-3">
+        <label for="apellido" class="form-label">Password:</label>
+        <input type="text" class="form-control" id="apellido" placeholder="Enter apellido"#ape>
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label">Password:</label>
+        <input type="email" class="form-control" id="email" placeholder="Enter mail"#mail>
+
+      </div>
+      <div class="mb-3">
+        <label for="genero" class="form-label">Password:</label>
+        <input type="text" class="form-control" id="genero" placeholder="Enter genero"#gen>
+
+      </div>
+      <div class="mb-3">
+        <label for="auto" class="form-label">Password:</label>
+        <input type="text" class="form-control" id="auto" placeholder="Enter auto"#auto>
+      </div>
+    <button type="submit" class="btn btn-primary" (click)="guardarNosotros(id.value,nom.value, ape.value, mail.value, gen.value, auto.value)">Submit</button>
+    <button type="submit" class="btn btn-success" (click)="actualizarNosotros(id.value,nom.value, ape.value, mail.value, gen.value, auto.value)">Actualizar</button>
+    <button type="submit" class="btn btn-danger" (click)="eliminarNosotros(id.value)">borrar</button>  
+  </form>
